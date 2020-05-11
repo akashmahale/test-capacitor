@@ -1,6 +1,6 @@
 {
   "name": "test-capacitor",
-  "version": "0.0.10",
+  "version": "0.2.0",
   "description": "Test",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
